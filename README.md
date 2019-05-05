@@ -7,4 +7,12 @@ I need to find a place for the data, and I will try to annotate the notebooks in
 Many thanks to the Public Lab community, in particular the [developer community](https://github.com/publiclab/plots2/).  I highly encourage programmers to check out the community.  You can read more about getting involved [here](https://github.com/publiclab/plots2/#developers).  Additionally, if you are new to programming and/or Ruby (these notebooks are in Python) they have an excellant process for [first time contributers](https://code.publiclab.org/).  I had never contributed to a project before, and I did a "first time only" [issue](https://github.com/publiclab/plots2/issues/5412), made my first [pull request](https://github.com/publiclab/plots2/pull/5459) ever and it was a great experience!  You can get a feeling for the community by looking at past weekly check-in's or introduce yourself on the current one, the list of which can be found [here](https://github.com/publiclab/plots2/issues/5627).
 
 Until then, here are some images which hopefully will make you subscribe or something like that so that you can be notified when the requisite pieces are up.
-~
+
+<p float="left" align="center">
+<img src="img/plots_entity_relationship_db_diagram.png" width="45%" float="left">
+<img src="img/plots_entity_relationship_db_graph.png" width="45%" float="left">
+</p>
+<p float="left" align="center">
+<img src="img/plots_q_and_a_interaction_graph.png" width="45%" float="left">
+<img src="img/plots_tag_graph_2017_2018.png" width="45%" float="left">
+</p>
