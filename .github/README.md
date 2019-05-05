@@ -1,5 +1,4 @@
-## Cultivating Data/Cultivating Community:
-### The Production of Community Through Data at Public Lab
+## Cultivating Data/Cultivating Community: The Production of Community Through Data at Public Lab
 
 These are the notebooks of the code from the project above a description of which can be found [here](https://publiclab.org/notes/bsugar/03-30-2019/cultivating-community-through-cultivating-data).
 
